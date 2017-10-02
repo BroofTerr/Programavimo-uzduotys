@@ -26,7 +26,6 @@ int main()
     for (int i = 0; i < detaliuSk; i++){
         skaityti.read(detale[i].detalesPav, 23);
         skaityti >> detale[i].detalesKiekis;
-        //rasyti << detale[i].detalesPav << " " << detale[i].detalesKiekis;
     }
 
     int detaliuPokytis; ///Kiek buvo atlikta keitimo veiksmu
