@@ -87,8 +87,7 @@ int main()
     for (int i = 0; i < dalyviuSk; i++){
         taskai[i] = dalyvis[i].taskai;
     }
-    sort(taskai,taskai+dalyviuSk);
-    reverse(taskai, taskai+dalyviuSk);
+    sort(taskai,taskai+dalyviuSk, greater<int>());
     for (int i = 0; i < dalyviuSk; i++){
         for (int j = 0; j < dalyviuSk; j++){
             if (dalyvis[j].taskai == taskai[i]){
