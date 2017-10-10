@@ -1,0 +1,11 @@
+10 4 150
+Letapedis Lokys  20 50 30  0
+Piskis Kiskis    10 30 60 20
+Snape Lape       90 80 70 60
+Pilkas Vilkas    20 40 10 10
+Patarska Sarka   20 10 15  0
+Tylioji Peleda   90 80 70 69
+Juoda Varna      40 30 20 20
+Kezys Ezys       60  0 60 30
+Dryzius Barsukas 95 67 49 81
+Ukas Apuokas     95 67 75 63
